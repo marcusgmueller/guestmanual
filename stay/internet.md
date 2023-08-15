@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Internet access
 
-The following WLAN network can be used free of charge in the house. You can find the access data on the display in the house.
+We provide free internet access with the network "huis-62" in the house. You will find the password in the house.
 
 {: .note}
 > If the tenant visits chargeable websites or enters into liabilities, the resulting costs shall be borne by him. He is obliged to comply with the applicable law when using the WLAN. He shall in particular:

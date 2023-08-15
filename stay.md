@@ -1,6 +1,7 @@
 ---
 title: Stay
 layout: home
+has_children: true
 ---
 
 # Stay

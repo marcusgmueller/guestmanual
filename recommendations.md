@@ -42,7 +42,7 @@ Vismijnstraat 7
 
 </aside>
 
-## attractive towns ****
+## **attractive towns**
 
 - Brügge
 - Damme

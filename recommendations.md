@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Recommendations
-parent: Stay
 nav_order: 2
 ---
 

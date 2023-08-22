@@ -7,27 +7,36 @@ nav_order: 2
 
 # TV
 
-All TVs in the house are equipped with Roku sticks. This means that only one remote control is required for operation.
+The TV in the house is equipped with an AppleTV. This means that only one remote control is necessary for control.
 
-### S**witching on and off**
+## Switching on and off
 
-There is a red button at the top of the remote control for this purpose.
+There is a button at the top right of the remote control for this purpose.
 
-### Volume control
+## Volume control
 
-The volume is controlled with the buttons on the side of the remote control.
+The volume is controlled with the buttons on bottom right of the remote control.
 
-### Programme selection
+## Programme selection
 
-The TV is used via various apps (similar to a smartphone). There are apps for TV channels (ARD, ZDF, RTL etc.), for streaming services (Amazon Prime, Netflix, Apple TV etc.) or other video services such as YouTube. Most services can be used without registration and subscription. For some services, such as Netflix, a paid subscription is necessary. If you already use Netflix at home, for example, you can simply and conveniently log in on the TV set with your access data and watch your films.
+The TV is used via various apps (similar to a smartphone). There are apps for TV channels (ARD, ZDF, RTL etc.), for streaming services (Amazon Prime, Netflix etc.) or other video services such as YouTube. Most services can be used without registration and subscription. For some services, such as Netflix, a paid subscription is necessary. If you already use Netflix at home, for example, you can simply and conveniently log in on the TV set with your access data and watch your films.
 
-<aside>
-💡 Please do not forget to log out of all TV services to which you have logged in with your own access data before you leave.
+{: .warning }
+Please do not forget to log out of all TV services to which you have logged in with your own access data before you leave.
 
-</aside>
+## Watching LiveTV
+To watch LiveTV there are two Apps available:
+### vrt max
+The app "vrt max" gives you access to some Belgium TV and Radio channels. Use the option "Live kijken" to switch to the Livestream. There is also an option to access some recorded shows inside this app.
 
+### Magenta TV
+The app "Magenta TV" allows you to watch most of the German TV channels and also some international channels. 
+1. Start the app "Magenta TV" from the homescreen.
+![homescreen](../media/tv_1.png)
+2. Select "TV" from the top navigation and select the cannel you would like to see.
+![magenta_tv](../media/tv_2.png)
 ### **Apple AirPlay**
 
-All Roku devices have Apple AirPlay. If you have an Apple device, you can wirelessly play content from your own device on the TV. To do this, you need to be connected to the Wi-Fi in your home.
+If you own an Apple Device (iPhone, iPad, Mac) you can also stream media directly from you device to the TV via AirPlay.
 
-[https://youtu.be/ic6O0wAiyhw](https://youtu.be/ic6O0wAiyhw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b4lp4o9WuF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -18,4 +18,5 @@ All keys are on the key board to the left of the front door. You will find the f
 | 5 | Rear garden gate & Chain for the garden furniture |
 | 6 | shed door |
 
-💡 Please do not remove the key fobs from the keys and make sure that all keys are back in place when you leave.
+{: .note }
+Please do not remove the key fobs from the keys and make sure that all keys are back in place when you leave.

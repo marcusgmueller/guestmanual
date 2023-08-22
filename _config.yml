@@ -14,3 +14,9 @@ callouts:
   note:
     title: Note
     color: yellow
+    
+# External navigation links
+nav_external_links:
+  - title: Toerism Vlandern
+    url: https://guest.huis62.com/media/toerismvlandern.pdf
+    hide_icon: false 

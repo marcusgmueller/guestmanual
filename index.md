@@ -19,4 +19,10 @@ Sincerely yours,
 Marcus Müller
 
 # Content
-[Stay](#stay)
+[Stay](https://guest.huis62.com/stay.html)
+
+[Recommendations](https://guest.huis62.com/recommendations.html)
+
+[Emergency](https://guest.huis62.com/emergency.html)
+
+[Toerism Vlandern](https://guest.huis62.com/media/toerismvlandern.pdf)

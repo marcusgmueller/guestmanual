@@ -35,7 +35,7 @@ The app "Magenta TV" allows you to watch most of the German TV channels and also
 ![homescreen](../media/tv_1.png)
 2. Select "TV" from the top navigation and select the cannel you would like to see.
 ![magenta_tv](../media/tv_2.png)
-### **Apple AirPlay**
+## Apple AirPlay
 
 If you own an Apple Device (iPhone, iPad, Mac) you can also stream media directly from you device to the TV via AirPlay.
 

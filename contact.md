@@ -1,6 +1,7 @@
 ---
 title: contact details
 layout: home
+nav_order: 4
 ---
 
 # contact details

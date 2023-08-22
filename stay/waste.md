@@ -1,6 +1,6 @@
 ---
 layout: default
-title: waste
+title: Waste
 parent: Stay
 nav_order: 1
 ---

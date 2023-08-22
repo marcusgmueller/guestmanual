@@ -23,6 +23,8 @@ Please use the wood moisture meter when selecting the firewood. This is located 
 | 21 - 44 | Not suitable for heating - Further drying necessary |
 
 {: .warning }
+test
+
 - Under no circumstances should paper or other waste be burnt, nor should treated wood residues be burnt.
 - Never leave the fireplace burning unattended (even an ember in the fireplace can reignite).
 - If you use the fireplace and the extractor fan in the kitchen at the same time, the odourless and colourless CO gas can form. - Danger to life - For this reason it is essential to have a window wide open.

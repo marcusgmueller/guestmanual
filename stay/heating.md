@@ -7,6 +7,27 @@ nav_order: 2
 
 # Heating
 
+## Fireplace
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMPVtMreSGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**Selecting the firewood**.
+
+Please use the wood moisture meter when selecting the firewood. This is located in the plastic box in the shed. The following results for the wood moisture values:
+
+| moist | Suitability for heating |
+| --- | --- |
+| 6-15  | Optimal for heating - High calorific value |
+| 16 - 20 | Restricted heating - Low calorific value |
+| 21 - 44 | Not suitable for heating - Further drying necessary |
+
+{: .warning }
+- Under no circumstances should paper or other waste be burnt, nor should treated wood residues be burnt.
+- Never leave the fireplace burning unattended (even an ember in the fireplace can reignite).
+- If you use the fireplace and the extractor fan in the kitchen at the same time, the odourless and colourless CO gas can form. - Danger to life - For this reason it is essential to have a window wide open.
+
+
 ### Fan heater - bedroom
 
 Please note the following instructions for use
@@ -57,36 +78,7 @@ Please note the following instructions for use
 
 </aside>
 
-### fireplace
 
-[https://youtu.be/eMPVtMreSGc](https://youtu.be/eMPVtMreSGc)
-
-The firewood is on the woodpile next to the shed.
-
-**Selecting the firewood**.
-
-Please use the wood moisture meter when selecting the firewood. This is located in the plastic box in the shed. The following results for the wood moisture values:
-
-| moist | Suitability for heating |
-| --- | --- |
-| 6-15  | Optimal for heating - High calorific value |
-| 16 - 20 | Restricted heating - Low calorific value |
-| 21 - 44 | Not suitable for heating - Further drying necessary |
-
-Adjustment of the chimney:
-
-1.open all ventilation flaps on the fireplace
-2. stack kindling and firelighter in the fireplace
-3. light the fireplace
-4. as soon as the fireplace is burning, you can slowly add larger and larger logs.
-
-<aside>
-⚠️
-
-- Under no circumstances should paper or other waste be burnt, nor should treated wood residues be burnt.
-- Never leave the fireplace burning unattended (even an ember in the fireplace can reignite).
-- If you use the fireplace and the extractor fan in the kitchen at the same time, the odourless and colourless CO gas can form. - Danger to life - For this reason it is essential to have a window wide open.
-</aside>
 
 ### Night storage heater
 
